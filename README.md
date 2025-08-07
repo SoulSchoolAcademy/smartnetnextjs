@@ -1,2 +1,11 @@
-# smartnetnextjs
-SmartNet Core is the foundational front-end for a decentralized AI-powered app ecosystem. Built with Vite + React, it includes SoulSkool, SmartMail, SmartTalk, affiliate routing, and command access. Designed for scalability, speed, and modular deployment. Plug-and-play architecture.
+# SmartNet Core (Next.js)
+
+This is the minimal starter template for SmartNet using Next.js.
+
+## Scripts
+
+- `npm run dev` – Start dev server
+- `npm run build` – Build for production
+- `npm start` – Start the production server
+
+Deployed using Vercel.
